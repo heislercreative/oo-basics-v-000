@@ -8,6 +8,7 @@ def initialize(brand)
 end
 
 def cobble
+  @condition = "new"
   
 end
 
